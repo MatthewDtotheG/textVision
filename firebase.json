@@ -1,0 +1,6 @@
+{
+  "react-native": {
+    // on device text recognition
+    "ml_vision_ocr_model": true
+  }
+}
